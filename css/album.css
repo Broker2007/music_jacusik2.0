@@ -1,0 +1,22 @@
+.img_1{
+    object-fit: cover;
+    width: 100%;
+}
+
+.card_1{
+    border: 1px solid rgba(34, 31, 31, 0.179);
+}
+
+@media(max-width: 580px){
+    .width_1{
+        width:100%;
+    }
+    .width_2{
+        width:100%;  
+    }
+}
+
+.button_music{
+    border: none;
+    background-color: white;
+}
